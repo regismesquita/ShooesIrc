@@ -1,0 +1,14 @@
+You are going to need Shoes/Shoes to run ir ;)
+
+Very minimalistic and expandible IRC Client that allows you to run Ruby Commands from the user line.
+
+Run the system pass parameters on the top bar if wanted.
+e.g. : :nick => "RegisMesquita" , :server => "irc.rizon.net"
+
+hit the button , and then you cna pass commands using the bottom textbar...
+e.g. : join('#games')
+e.g. : talk('Hooray for Beer!')
+e.g. : join('#games');10.times{@irc.talk('Sweet! I can say it so many times!!!! yay!!')};@irc.part('#games')
+
+Enjoy and Expand!
+
